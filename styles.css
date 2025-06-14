@@ -492,7 +492,7 @@ footer{
     z-index: 2;
     top: -50px;
     left: 25px;
-    
+
 
 }
 
@@ -515,6 +515,8 @@ footer{
             - left: 0
 */
 #section4 p:last-of-type{
+    margin: 1rem 0;
+    
 
 }
 
